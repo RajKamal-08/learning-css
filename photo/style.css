@@ -10,7 +10,7 @@ body {
     width: 100%;
     height: 100vh;
     overflow: hidden;
-    font-family: "Times New Roman", serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 /* Image covers the entire screen */
@@ -32,7 +32,7 @@ body {
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 1fr);
     padding: clamp(12px, 2vw, 32px);   /* gap from the screen edge */
-    color: red;
+    color: brown;
     font-size: clamp(1rem, 2.5vw, 1.75rem);
     font-weight: bold;
     white-space: nowrap;
